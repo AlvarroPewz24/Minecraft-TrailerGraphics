@@ -20,7 +20,7 @@ Packs and mods needed to make Minecraft look similar to its trailers.
 
 ㅤ◦ [Shader Pack Settings](https://github.com/AlvarroPewz24/Minecraft-TrailerGraphics/blob/main/ComplementaryReimagined_r5.7.1.zip.txt)
 
-ㅤ◦ [Iris Shaders](https://modrinth.com/mod/iris) (Dependency):
+ㅤ◦ [Iris Shaders](https://modrinth.com/mod/iris) (Shader Pack Loader):
 
 ㅤㅤ◦ [Sodium](https://modrinth.com/mod/sodium) (Dependency)
 
