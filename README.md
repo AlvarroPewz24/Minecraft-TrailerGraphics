@@ -8,13 +8,13 @@ Packs and mods needed to make Minecraft look similar to its trailers.
 
 • [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations):
 
-ㅤ◦ [Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)
-
 ㅤ◦ [Bare Bones x Fresh Animations](https://modrinth.com/resourcepack/bare-bones-x-fresh-animations) (Bare Bones Compatibility)
 
 ㅤ◦ [Entity Model Features](https://modrinth.com/mod/entity-model-features) (Dependency)
 
 ㅤ◦ [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) (Dependency)
+
+• [Fresh Moves](https://modrinth.com/resourcepack/tras-fresh-player)
 
 • [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined):
 
@@ -23,3 +23,7 @@ Packs and mods needed to make Minecraft look similar to its trailers.
 ㅤ◦ [Iris Shaders](https://modrinth.com/mod/iris) (Dependency):
 
 ㅤㅤ◦ [Sodium](https://modrinth.com/mod/sodium) (Dependency)
+
+• [Particular ✨ Reforged](https://modrinth.com/mod/particular-reforged)
+
+• [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders)
