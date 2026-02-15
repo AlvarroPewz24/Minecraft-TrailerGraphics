@@ -1,8 +1,6 @@
 ![title](mc-trailer.png)
-
 Packs and mods needed to make Minecraft look similar to its trailers.
 
-ㅤ
 --------------------------------
 
 • [Bare Bones](https://modrinth.com/resourcepack/bare-bones)
