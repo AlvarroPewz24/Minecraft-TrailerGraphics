@@ -24,6 +24,8 @@ Packs and mods needed to make Minecraft look similar to its trailers.
 
 ㅤㅤ◦ [Sodium](https://modrinth.com/mod/sodium) (Dependency)
 
-• [Particular ✨ Reforged](https://modrinth.com/mod/particular-reforged)
+• [Particular ✨ Reforged](https://modrinth.com/mod/particular-reforged):
+
+ㅤ◦ [Mod Config](https://github.com/AlvarroPewz24/Minecraft-TrailerGraphics/blob/main/particular-common.toml)
 
 • [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders)
